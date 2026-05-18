@@ -1,0 +1,25 @@
+{
+  "versions": {
+    "Python": "3.12.13",
+    "OS": "Linux-6.6.122+-x86_64-with-glibc2.35",
+    "LightGBM": "4.6.0",
+    "XGBoost": "3.2.0",
+    "CatBoost": "1.2.10",
+    "CodeCarbon": "3.2.6",
+    "scikit-learn": "1.6.1",
+    "NumPy": "2.0.2",
+    "pandas": "2.2.2"
+  },
+  "cpu": "Intel(R) Xeon(R) CPU @ 2.20GHz",
+  "isa": {
+    "avx": true,
+    "avx2": true,
+    "avx512f": false,
+    "avx512_fp16": false,
+    "avx512_bf16": false,
+    "f16c": true,
+    "fma": true,
+    "sse4_2": true
+  },
+  "rapl": []
+}
